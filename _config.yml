@@ -20,7 +20,7 @@ title                    : "무㒇계획"
 title_separator          : "-"
 subtitle                 : "INU Capstone Design MGH"# site tagline that appears below site title in masthead
 name                     : "무㒇계획"
-description              : "An amazing website."
+description              : "INU Capstone Design MGH github page입니다."
 url                      : "https://inu-capstone-design-team-MGH.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
