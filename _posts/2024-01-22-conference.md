@@ -3,7 +3,7 @@ title:  "inu-capstone-design-team-MGH-document"
 excerpt: "1/22 회의"
 
 categories:
-  - conference
+  - Conference
 tags:
   - 회의
   - 회의록
