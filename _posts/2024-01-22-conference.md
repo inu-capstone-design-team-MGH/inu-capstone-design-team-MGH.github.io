@@ -1,7 +1,17 @@
 ---
-layout: single
 title:  "inu-capstone-design-team-MGH-document"
+excerpt: "1/22 회의"
+
+categories:
+  - 회의
+tags:
+  - 회의
+  - 회의록
+  - 서태원
+  - 신재환
+  - 최승렬
+  - 류은
+
 ---
 
-# conference
-모든 기록여기에 올려주세요
+# 1/22 회의
