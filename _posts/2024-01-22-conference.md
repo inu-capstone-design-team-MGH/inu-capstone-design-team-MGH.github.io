@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "inu-capstone-design-team-MGH-document"
+title:  "document"
 excerpt: "overview"
 
 categories:
