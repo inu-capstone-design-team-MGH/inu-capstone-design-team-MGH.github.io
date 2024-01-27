@@ -1,6 +1,7 @@
 ---
+layout: single
 title:  "inu-capstone-design-team-MGH-document"
-excerpt: "1/22 회의"
+excerpt: "overview"
 
 categories:
   - Conference
