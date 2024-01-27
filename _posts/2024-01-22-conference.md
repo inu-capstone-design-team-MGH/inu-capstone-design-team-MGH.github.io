@@ -46,8 +46,7 @@ last_modified_at: 2024-01-26
 
 - [x]  모니터링 진행사항 확인
     
-    → 타팀 진행상황: [https://docs.google.com/document/d/1OwHHn30HF-t2cgvMbOrsE4b0T91czY-NdcFVg2FD8iA/edit?usp=sharing](https://docs.google.com/document/d/1OwHHn30HF-t2cgvMbOrsE4b0T91czY-NdcFVg2FD8iA/edit?usp=sharing)
-    
+    → 타팀 진행상황: 
 
 논의사항
 
